@@ -1,6 +1,6 @@
 # MyFirstReactNativeProject
 
-Most important project's files:
+## Most important project's files:
 * .\App.js
 * .\components\FetchLocation.js
 * .\components\UsersMap.js
@@ -9,7 +9,8 @@ Most important project's files:
 * .\android\app\src\main\AndroidManifest.xml
 * .\android\app\src\main\java\com\myawesomeproject\MainApplication.java
 
-Also needed files (edit and run ".\editAndRunMeFIRST.bat" FIRST):
+## Also needed files (edit and run ".\editAndRunMeFIRST.bat" **first**):
 * .\dbPrivAddress.js
-* %USERPROFILE%\.gradle\gradle.properties
+* %USERPROFILE%\\.gradle\gradle.properties
+
 **Important**: *remove private data (like API key) from "editAndRunMeFIRST.bat" after run it*
